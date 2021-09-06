@@ -1,0 +1,5 @@
+,belongToHSS,userType,vlraddr,mscPooladdr,vlrlocation,mmeaddr,mmePooladdr,cmnet_pgwaddr,ims_pgwaddr,scscfaddr
+8615922730211,CQHSS04FE02BER,volte,8613441963,POOL3,IDC5楼,mmec6A.mmegi03A3,CQMME-POOL3,cqsaegw40ber.cq,cqsaegw40ber.cq,app-xncdcqscscf1bzx-04azx012.cq
+8615923157014,CQHSS05FE02BER,volte,8613441966,POOL2,IDC5楼,mmec42.mmegi03A3,CQMME-POOL3,unknown,unknown,cqscscf13bhw.cq
+8615923157015,CQHSS05FE02BER,volte,8613441966,POOL2,IDC5楼,mmec6E.mmegi03A1,CQMME-POOL3,unknown,unknown,cqscscf13bhw.cq
+8615923157016,CQHSS05FE02BER,volte,86134419999,POOL2,IDC5楼,mmec6E.mmegi03A1111,CQMME-POOL3,unknown,unknown,cqscscf13bhw.cq
